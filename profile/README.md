@@ -39,7 +39,20 @@ npx agentkit-seo list skills
 
 ## Maintainers
 
-- Renato Mignone
-- Elia Innocenti
+### Renato Mignone
+
+<p>
+  <a href="mailto:renato.mignone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Renato Mignone" /></a>
+  <a href="https://github.com/RenatoMignone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Renato Mignone" /></a>
+  <a href="https://www.linkedin.com/in/renato-mignone/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Renato Mignone" /></a>
+</p>
+
+### Elia Innocenti
+
+<p>
+  <a href="mailto:home.eliainnocenti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Elia Innocenti" /></a>
+  <a href="https://github.com/eliainnocenti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Elia Innocenti" /></a>
+  <a href="https://www.linkedin.com/in/eliainnocenti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Elia Innocenti" /></a>
+</p>
 
 Platform names, trademarks, and logos belong to their respective owners. AgentKit SEO is independent and is not affiliated with, sponsored by, or endorsed by those platforms.
